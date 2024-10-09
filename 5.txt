@@ -1,0 +1,33 @@
+ 0.01s user 0.01s system 160% cpu 0.014 total
+ 0.03s user 0.01s system 256% cpu 0.014 total
+ 0.02s user 0.00s system 203% cpu 0.013 total
+ 0.02s user 0.00s system 205% cpu 0.014 total
+ 0.03s user 0.00s system 242% cpu 0.014 total
+ 0.02s user 0.00s system 184% cpu 0.014 total
+ 0.02s user 0.01s system 182% cpu 0.011 total
+ 0.01s user 0.01s system 155% cpu 0.012 total
+ 0.03s user 0.00s system 217% cpu 0.014 total
+ 0.03s user 0.01s system 248% cpu 0.014 total
+ 0.02s user 0.00s system 189% cpu 0.014 total
+ 0.02s user 0.00s system 216% cpu 0.012 total
+ 0.02s user 0.00s system 193% cpu 0.014 total
+ 0.02s user 0.01s system 220% cpu 0.013 total
+ 0.02s user 0.00s system 180% cpu 0.013 total
+ 0.03s user 0.00s system 243% cpu 0.014 total
+ 0.02s user 0.00s system 203% cpu 0.012 total
+ 0.02s user 0.01s system 204% cpu 0.013 total
+ 0.03s user 0.01s system 222% cpu 0.014 total
+ 0.03s user 0.00s system 267% cpu 0.012 total
+ 0.02s user 0.01s system 193% cpu 0.013 total
+ 0.02s user 0.00s system 205% cpu 0.013 total
+ 0.02s user 0.00s system 193% cpu 0.013 total
+ 0.03s user 0.01s system 225% cpu 0.014 total
+ 0.02s user 0.01s system 181% cpu 0.013 total
+ 0.02s user 0.01s system 165% cpu 0.014 total
+ 0.03s user 0.01s system 205% cpu 0.015 total
+ 0.04s user 0.01s system 269% cpu 0.016 total
+ 0.02s user 0.00s system 199% cpu 0.011 total
+ 0.02s user 0.01s system 190% cpu 0.014 total
+
+The average CPU usage in the 30 iterations is 207.13%.(Size of the work unit is 5)
+The average total time usage in the 30 iterations is 0.0132s
